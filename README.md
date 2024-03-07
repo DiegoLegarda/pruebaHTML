@@ -1,2 +1,2 @@
 # pruebaHTML
-Es solo una pequena prueba
+Es solo una pequena prueba de un repositorio
