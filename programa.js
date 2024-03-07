@@ -1,7 +1,6 @@
-//****** */
-//vamos a usar fetch
 
-fetch('https://github.com/DiegoLegarda/')
+
+fetch('https://api.github.com/users/DiegoLegarda/repos')
 
 //fetch('datos.json')
 .then(res => res.json())  //convertir la respuesta en json
